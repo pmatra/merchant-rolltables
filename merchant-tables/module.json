@@ -1,0 +1,19 @@
+{
+    "name": "merchant-tables",
+    "title": "Merchant Rolltables",
+    "description": "Armor and Weapon Rolltables for LootSheetNPC",
+    "version": "1.0.0",
+    "author": "Me",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [
+        {
+            "name": "module-roll-tables",
+            "label": "Module Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
